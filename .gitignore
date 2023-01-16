@@ -132,3 +132,7 @@ dmypy.json
 desktop.ini
 
 /.idea/*
+
+/InscopixProcessing/
+
+/AnalyzedData/
