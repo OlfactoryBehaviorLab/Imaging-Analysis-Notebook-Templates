@@ -146,3 +146,4 @@ desktop.ini
 
 *.pdf
 *.csv
+/test.ipynb
