@@ -147,3 +147,4 @@ desktop.ini
 *.pdf
 *.csv
 /test.ipynb
+_test.py
