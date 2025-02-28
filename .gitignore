@@ -148,3 +148,7 @@ desktop.ini
 *.csv
 /test.ipynb
 _test.py
+
+RUN ME TO UPDATE.lnk
+update_current_repository.ps1
+ssh-key
